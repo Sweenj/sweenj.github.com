@@ -8,14 +8,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jim's Gym Time
-tagline: Welcome
-author : Jim S.
+title : Sweenj Training
+tagline: Keep track of my training and diet progress.
+author :
   name : Jim
-  email :  Sweenj@users.noreply.github.com
+  email : jimzs1025@gmail.com
   github : Sweenj
-  twitter : ___________
-  feedburner : _________
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +23,7 @@ author : Jim S.
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://sweenj.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -128,4 +126,3 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
-  markdown: kramdown
